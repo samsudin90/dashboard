@@ -6,7 +6,7 @@ export const data = [
             last : 'Mayer'
         },
         total : 1200000,
-        status : 'On Hold',
+        status : 'Completed',
         method : 'Dana',
         date : '12 minutes ago'
     },
@@ -17,7 +17,7 @@ export const data = [
             last : 'munich'
         },
         total : 1050000,
-        status : 'On Hold',
+        status : 'Processing',
         method : 'paypal',
         date : '15 minutes ago'
     },
@@ -29,7 +29,7 @@ export const data = [
         },
         total : 1350000,
         status : 'On Hold',
-        method : 'Dana',
+        method : 'QRIS',
         date : '19 minutes ago'
     },
     {
@@ -39,7 +39,7 @@ export const data = [
             last : 'mahendra'
         },
         total : 900000,
-        status : 'On Hold',
+        status : 'Processing',
         method : 'Dana',
         date : '20 minutes ago'
     },
@@ -62,7 +62,7 @@ export const data = [
         },
         total : 2000000,
         status : 'On Hold',
-        method : 'Dana',
+        method : 'Transfer Bank',
         date : '33 minutes ago'
     },
     {
@@ -83,8 +83,8 @@ export const data = [
             last : 'azkaira'
         },
         total : 2100000,
-        status : 'On Hold',
-        method : 'Dana',
+        status : 'Completed',
+        method : 'OVO',
         date : '39 minutes ago'
     },
     {
@@ -94,8 +94,8 @@ export const data = [
             last : 'fadilah'
         },
         total : 2500000,
-        status : 'On Hold',
-        method : 'Dana',
+        status : 'Completed',
+        method : 'QRIS',
         date : '41 minutes ago'
     },
     {
@@ -105,8 +105,8 @@ export const data = [
             last : 'toserba'
         },
         total : 2200000,
-        status : 'On Hold',
-        method : 'Dana',
+        status : 'Completed',
+        method : 'VA',
         date : '43 minutes ago'
     }
 ]
